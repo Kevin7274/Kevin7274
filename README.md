@@ -19,6 +19,7 @@
 
 - Estudiante de desarrollo de software de 10° cuatrimestre
 - Inglés B2
+- Interesado en Machine Learning (IA), ciberseguridad y la metodología DevOps
 - Conocimientos en:
  - Front-end
  - Back-end
