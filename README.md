@@ -1,16 +1,87 @@
-## Hi there 👋
+## Bienvenid@ a mi perfil 👋
 
-<!--
-**Kevin7274/Kevin7274** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<h1 align="center"><b>Kevin Uriel Hernández Escalante</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
+<!--  -->
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Estudiante+en;Desarrollo+de+software,;Front-end,;Back-end,;Data+bases..<3"></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<br>
+
+
+
+	
+**## <b>- ✨Acerca de mi -</b>**
+
+<br>
+
+- Estudiante de desarrollo de software de 10° cuatrimestre
+- Inglés B2
+- Conocimientos en:
+ - Front-end
+ - Back-end
+ - Bases de datos
+ - Frameworks
+
+<br><br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Conocimientos</b>
+<br>
+
+<p align="center">
+
+- **Lenguajes**:
+    
+    ![Dart](https://img.shields.io/badge/Dart%20-%232370ED.svg?style=for-the-badge&logo=dart&logoColor=white)
+    ![Php](https://img.shields.io/badge/php%20-%2300599C.svg?style=for-the-badge&logo=php&logoColor=white)
+    ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+    ![SQL](https://img.shields.io/badge/sql%20-%2314354C.svg?style=for-the-badge&logo=sql&logoColor=white)
+
+<br>   
+    
+- **Front-End Development**:
+
+   ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+   ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+   ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+
+<br>
+
+- **Frameworks**:
+
+    ![Flutter](https://img.shields.io/badge/Flutter-%23327FC7.svg?style=for-the-badge&logo=flutter&logoColor=white)
+    ![Laravel](https://img.shields.io/badge/Laravel-%23327FC7.svg?style=for-the-badge&logo=laravel&logoColor=white)
+    
+
+
+
+
+</p>
+
+
+<br>
+<br>
+
+## <b> 🌎Contacto...</b>
+<br>
+<div align='left'>
+
+<ul>
+
+<br>
+
+<li>
+<a href="mailto:0xabdulkhalid@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/gmail:  kuhes0918@gmail.com-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+</a>
+</li>
+	
+</ul>
+</div>
+
+<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
