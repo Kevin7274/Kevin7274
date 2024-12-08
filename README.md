@@ -43,7 +43,7 @@
 
 <br><br>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Conocimientos y habilidades en:</b>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Experiencia y habilidades en:</b>
 <br>
 
 <p align="center">
@@ -70,7 +70,14 @@
     ![Flutter](https://img.shields.io/badge/Flutter-%23327FC7.svg?style=for-the-badge&logo=flutter&logoColor=white)
     ![Laravel](https://img.shields.io/badge/Laravel-%232370ED.svg?style=for-the-badge&logo=laravel&logoColor=white)
     ![Django](https://img.shields.io/badge/Django-%23E34F26.svg?style=for-the-badge&logo=django&logoColor=white)
+
+  <br>   
     
+- **Gestores de bases de datos**:
+
+   ![Firebase](https://img.shields.io/badge/Firebase%20-orange.svg?style=for-the-badge&logo=firebase&logoColor=white)
+   ![MySQL](https://img.shields.io/badge/mysql%20-red.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
 
 
 
@@ -80,6 +87,24 @@
 
 <br>
 <br>
+
+
+## <b> Mi CV 📃</b>
+<br>
+<div align='left'>
+
+<ul>
+
+<br>
+<li>
+<a href="https://github.com/RogHDZ/RogHDZ/blob/b6f88fc30d006cea61a56ca77496452620c7869d/Rogelio%20hdz%20cv.pdf" target="_blank">Currículum Vitae</a>
+</li>
+	
+</ul>
+</div>
+
+<br>
+
 
 ## <b> 🌎Contacto...</b>
 <br>
