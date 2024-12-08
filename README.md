@@ -55,7 +55,8 @@
 - **Frameworks**:
 
     ![Flutter](https://img.shields.io/badge/Flutter-%23327FC7.svg?style=for-the-badge&logo=flutter&logoColor=white)
-    ![Laravel](https://img.shields.io/badge/Laravel-%23327FC7.svg?style=for-the-badge&logo=laravel&logoColor=white)
+    ![Laravel](https://img.shields.io/badge/Laravel-%232370ED.svg?style=for-the-badge&logo=laravel&logoColor=white)
+    ![Django](https://img.shields.io/badge/Django-%23E34F26.svg?style=for-the-badge&logo=django&logoColor=white)
     
 
 
